@@ -9,7 +9,12 @@ public class continuecase {
 			{
 			continue;
 			}
+			
+			
       System.out.println("i= "+i);
+      if(i==6) {
+			break;
+		}
 		}
 	}
 
