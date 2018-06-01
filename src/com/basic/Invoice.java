@@ -50,7 +50,8 @@ public class Invoice {
 		System.out.println(invoice.getQuantity());
 		System.out.println(invoice.getPrice());
 		System.out.println(invoice.getPartDescription());
-	;
+		System.out.println(invoice.getInvoiceAmount());
+		
 		
 		
 	}
