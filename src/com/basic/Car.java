@@ -6,7 +6,7 @@ public class Car {
 	double speed;
 	 public Car()
 	{
-		
+		System.out.println("car constructor");
 	}
 	 
 	 
