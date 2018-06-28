@@ -9,9 +9,9 @@ public static boolean isEven (int one) {
 	}
 }
 public static void main(String args[]) {
-	Even e1=new Even();
-	boolean e=e1.isEven(7);
-	System.out.println(e);
+
+	boolean b=Even.isEven(8);
+	System.out.println(b);
 	
 }
 }

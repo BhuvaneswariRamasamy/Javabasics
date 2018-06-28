@@ -1,5 +1,5 @@
 package com.basic;
-
+import java.lang.*;
 public class Car {
 
 	String model;
